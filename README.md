@@ -1,4 +1,3 @@
-
 # Run it locally
 ### step 1: clone the repo 
  `git clone https://github.com/xor09/countries_next.git`
@@ -21,6 +20,7 @@
 
 ### Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+![Screenshot (308)](https://user-images.githubusercontent.com/70262740/120958015-69cb5880-c774-11eb-9cdb-52927a599310.png)
 
 
 # vercel page link
