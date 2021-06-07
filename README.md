@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Run it locally
+### step 1: clone the repo 
+ `git clone https://github.com/xor09/countries_next.git`
 
-First, run the development server:
+![Screenshot (304)](https://user-images.githubusercontent.com/70262740/120956800-fd4f5a00-c771-11eb-9827-37bc015c31b7.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### step 2: open the repo and add dependencies
+  `npm install` or `npm install react-scripts --save`
+  
+![Screenshot (301)](https://user-images.githubusercontent.com/70262740/120956419-202d3e80-c771-11eb-80c3-e82ed4174101.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### step 3: to run
+  `npm run dev`
+  
+  ![Screenshot (302)](https://user-images.githubusercontent.com/70262740/120956433-291e1000-c771-11eb-976c-2940a1faac8b.png)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+# vercel page link
+https://countries-next-3g3ahlr0q-xor09.vercel.app/
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Screenshots
+### Home page
+![Screenshot (305)](https://user-images.githubusercontent.com/70262740/120956880-34257000-c772-11eb-9aa5-d66b61c02ce0.png)
+
+
+### searching
+![Screenshot (306)](https://user-images.githubusercontent.com/70262740/120956888-3ab3e780-c772-11eb-8445-3cb07badc5c0.png)
+
+
+### sorting
+![Screenshot (307)](https://user-images.githubusercontent.com/70262740/120956903-40113200-c772-11eb-839a-bf3365d29359.png)
+
+
+
+
+
+
+
+
+
+
+
